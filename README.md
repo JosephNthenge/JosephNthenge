@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and CSS
 - 💞️ I’m looking to collaborate on webdevelopment projects and IT Project managements
 - 📫 How to reach me +254726285383 or Joseph.nthenge@outlook.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: HE
 - ⚡ Fun fact: Am a seld motivator and i never loose Hope....
 
 <!---
